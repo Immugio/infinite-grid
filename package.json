@@ -1,6 +1,6 @@
 {
   "name": "@immugio/infinite-grid",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Antialiased infinite grid for Three.js based on https://github.com/Fyrestar/THREE.InfiniteGridHelper",
   "author": "Jan Mikeska <janmikeska@gmail.com>",
   "license": "ISC",
